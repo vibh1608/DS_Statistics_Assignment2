@@ -1,6 +1,6 @@
-# DS_Statistics_Assignment21.
+# DS_Statistics_Assignment2
 
-​ Introduction
+1.​ Introduction
 This assignment will help you to consolidate the concepts learnt in the session.
 
 2.​ Problem Statement
